@@ -104,7 +104,7 @@
                                 <div class="carousel-content centered">
                                     <h2 class="animation animated-item-1">The Future of Money and Micro Transactions</h2>
                                     <p class="animation animated-item-2">Energy Friendly and Long Term sustainable FinTech.</p>
-                                    <a class="btn btn-md animation animated-item-3" href="#">Learn More</a>
+                                    <a class="btn btn-md animation animated-item-3" href="getting-started.html">Learn More</a>
                                 </div>
                             </div>
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
