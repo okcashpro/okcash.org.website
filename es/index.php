@@ -87,8 +87,8 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
-                                    <h2 class="boxed animation animated-item-1">Always Available, World Wide, 24/7</h2><br>
-                                    <p class="boxed animation animated-item-2">Send and Receive OKCash anywhere in the world, Download and start using the OK wallet for free.</p>
+                                    <h2 class="boxed animation animated-item-1">Siempre disponible, Internacional, 24/7</h2><br>
+                                    <p class="boxed animation animated-item-2">Envía y recibe OKCash en cualquier parte del mundo, Descarga tu cartera OK gratis y comienza a utilizar OKCash.</p>
                                 </div>
                             </div>
                         </div>
@@ -99,15 +99,15 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="carousel-content centered">
-                                    <h2 class="animation animated-item-1">The Future of Money and Micro Transactions</h2>
-                                    <p class="animation animated-item-2">Energy Friendly and Long Term sustainable FinTech.</p>
-                                    <a class="btn btn-md animation animated-item-3" href="getting-started.html">Learn More</a>
+                                    <h2 class="animation animated-item-1">El Futuro del Dinero y las Micro Transacciones</h2>
+                                    <p class="animation animated-item-2">Technología Financiera amigable con el medio ambiente y sustentable a largo plazo</p>
+                                    <a class="btn btn-md animation animated-item-3" href="getting-started.html">Leer Más</a>
                                 </div>
                             </div>
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="centered">
                                     <div class="embed-container">
-                                        <iframe src="https://www.youtube.com/embed/_Sl9JjO0X6c?rel=0&amp;title=0&amp;byline=0&amp;portrait=0&amp;color=a22c2f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                                        <iframe src="https://www.youtube.com/embed/RyGFnvbEMdg?rel=0&amp;title=0&amp;byline=0&amp;portrait=0&amp;color=a22c2f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -119,8 +119,8 @@
                         <div class="row">
 						    <div class="col-sm-12">
                                 <div class="carousel-content centered">
-								    <h2 class="animation animated-item-1">Welcome to OKCash - The Social Cryptocurrency</h2>
-                                    <p class="animation animated-item-2">Positive Innovation and Empowerment - Efficient, Decentralized and Open Source.</p>
+								    <h2 class="animation animated-item-1">Bienvenidos a OKCash - El Futuro de los Pagos Sociales</h2>
+                                    <p class="animation animated-item-2">Innovación Positiva y Empoderante - Eficaz, Decentralizada y de Código Libre.</p>
                                 </div>
                             </div>
                             
@@ -141,8 +141,8 @@
         <div class="container">
             <div class="row">
 						
-  <h1 style="text-align: center;" data-animation="fadeInDown" data-animation-delay="0.0">Select your OK wallet</h1>
-  <p align="center">& Start gaining the benefits of using OKCash Today</p>
+  <h1 style="text-align: center;" data-animation="fadeInDown" data-animation-delay="0.0">Selecciona tu cartera OK</h1>
+  <p align="center">& Comienza a ganar los beneficios de utilizar OKCash</p>
 <br />
 <table style="width: 70%;" align="center">
 	<tbody>
@@ -153,15 +153,15 @@
 			</td>
 			<td width="2%">&nbsp;</td>
 			<td valign="top" width="18%">
-				<h2 style="text-align: center;"><em class="fa fa-mobile fa-2x"></em><br />Mobile</h2>
+				<h2 style="text-align: center;"><em class="fa fa-mobile fa-2x"></em><br />Móvil</h2>
 				<div style="text-align: center;"><a href="https://play.google.com/store/apps/details?id=com.mygeopay.wallet" target="_blank"> <strong>UberPay Android</strong></a></div>
 				<div style="text-align: center;"><a href="https://play.google.com/store/apps/details?id=com.coinomi.wallet" target="_blank"> <strong>Coinomi Android</strong></a></div>
 			</td>
 			<td width="2%">&nbsp;</td>
 			<td valign="top" width="18%">
-				<h2 style="text-align: center;"><em class="fa fa-desktop fa-2x"></em><br />Desktop</h2>
-				<div style="text-align: center;"><a href="http://bit.ly/OKeasyinstall" target="_blank"> <strong>Windows Installer</strong></a></div>
-				<div style="text-align: center;"><a href="http://bit.ly/OKzipdownload" target="_blank"> <strong>Windows zip file</strong></a></div>
+				<h2 style="text-align: center;"><em class="fa fa-desktop fa-2x"></em><br />Escritorio</h2>
+				<div style="text-align: center;"><a href="http://bit.ly/OKeasyinstall" target="_blank"> <strong>Windows Instalador</strong></a></div>
+				<div style="text-align: center;"><a href="http://bit.ly/OKzipdownload" target="_blank"> <strong>Windows archivo zip</strong></a></div>
 				<div style="text-align: center;"><a href="http://bit.ly/OKmacosx" target="_blank"> <strong>Mac OS X</strong></a></div>
 				<div style="text-align: center;"><a href="http://bit.ly/OKubuntulinux" target="_blank"> <strong>Ubuntu Linux</strong></a></div>
 			</td>
@@ -174,15 +174,15 @@
 			<td width="2%">&nbsp;</td>
 			<td valign="top" width="20%">
 				<h2 style="text-align: center;"><em class="fa fa-lock fa-2x"></em><br />Off-line</h2>
-				<div style="text-align: center;"><a href="http://paperwallets.okcash.co" target="_blank"> <strong>Paper Wallets</strong></a>
+				<div style="text-align: center;"><a href="http://paperwallets.okcash.co" target="_blank"> <strong>Carteras de Papel</strong></a>
 				</div>
 			</td>
 		</tr>
 	</tbody>
 </table>
-<p style="text-align: center;"><br /><br /><br /><em class="fa fa-chain"></em> Updated Instant Bootstrap: <a href="https://github.com/okcashpro/ok-blockchain/releases" target="_blank"> <strong>OK-blockchain</strong></a><br /><em class="fa fa-check"></em> Latest wallet release notes: <a href="https://github.com/okcashpro/okcash/releases" target="_blank"> <strong>v3.0.0.4</strong></a><br /><em class="fa fa-cog"></em> Config file for services: <a href="http://bit.ly/OKzconfig" target="_blank"> <strong>okcash.conf</strong></a><br /><br />
-*Files Distribution powered by <em>dropbox.com</em> secure encrypted files services.</p><br />
-<p align="center"><a href="http://rokos.space" target="_blank"><img class="userimg" src="images/rokos.png" alt="" border="0" /> <br /><strong>First Fully optimized OS for Raspberry Pi with integrated Crypto Wallets</strong></a><br /><em>*Free Distribution</em>  </p>			
+<p style="text-align: center;"><br /><br /><br /><em class="fa fa-chain"></em> Bootstrap Instantáneo Actualizado: <a href="https://github.com/okcashpro/ok-blockchain/releases" target="_blank"> <strong>OK-blockchain</strong></a><br /><em class="fa fa-check"></em> Notas de Última versión liberada: <a href="https://github.com/okcashpro/okcash/releases" target="_blank"> <strong>v3.0.0.4</strong></a><br /><em class="fa fa-cog"></em> Archivo Config para servicios: <a href="http://bit.ly/OKzconfig" target="_blank"> <strong>okcash.conf</strong></a><br /><br />
+*Distribución de archivos a traves de <em>dropbox.com</em> servicio seguro de archivos encriptados.</p><br />
+<p align="center"><a href="http://rokos.space" target="_blank"><img class="userimg" src="images/rokos.png" alt="" border="0" /> <br /><strong>El Primer Sistema Operativo optimizado para Raspberry Pi y dispositivos IoT con Cryptomonedas Integradas</strong></a><br /><em>*Distribución gratuita</em>  </p>			
             </div>
         </div>
     </section><!--/#downloads-wallets-->
@@ -221,7 +221,7 @@
                 </div>
             </div>
         </div> -->
-		<h3 class="title" align="center"><em class="fa fa-star-o"></em> <b>WORLDWIDE STATS</b> <em class="fa fa-star-o"></em></h3>
+		<h3 class="title" align="center"><em class="fa fa-star-o"></em> <b>ESTADÍSTICAS MUNDIALES</b> <em class="fa fa-star-o"></em></h3>
 	<div>
 		<div class="rt-block">
 		<table align="center" width="90%">
@@ -234,7 +234,7 @@ $json2 = json_decode(file_get_contents($url2), true);
 $totady = $json2["known"];
 echo $totady; ?>
 </h2>
-			<h5 class="count_title"><i class="fa fa-qrcode"></i>  Addresses<br />created so far</h5></center>
+			<h5 class="count_title"><i class="fa fa-qrcode"></i>  Direcciones creadas<br />hasta el día de hoy</h5></center>
 			</div>
 			
 			</td><td width="25%">
@@ -246,7 +246,7 @@ $json3 = json_decode(file_get_contents($url3), true);
 $nonady = $json3["nonzero"];
 echo $nonady; ?>
 </h2>
-			<h5 class="count_title"><i class="fa fa-smile-o"></i>  Addresses holding<br />more than 1000 OK</h5></center>
+			<h5 class="count_title"><i class="fa fa-smile-o"></i>  Direcciones con más<br />de 1000 monedas OK</h5></center>
 			</div> 
 			
 			</td><td width="25%">
@@ -258,7 +258,7 @@ $json4 = json_decode(file_get_contents($url4), true);
 $marketplace = $json4["position"];
 echo $marketplace; ?>
 </h2>
-			<h5 class="count_title"><i class="fa fa-thumbs-o-up"></i>  Coinmarketcap<br />place</h5></center>
+			<h5 class="count_title"><i class="fa fa-thumbs-o-up"></i>  Posición en <br />Coinmarketcap</h5></center>
 			</div> 
 			
 			</td><td width="25%">
@@ -271,7 +271,7 @@ $json1 = json_decode(file_get_contents($url), true);
 $totalcoins = $json1;
 echo $totalcoins; ?>
 </h2>
-				<h5 class="count_title"><i class="fa fa-heart-o"></i>  Coins<br />in circulation</h5></center>
+				<h5 class="count_title"><i class="fa fa-heart-o"></i>  Monedas OK<br />en circulación</h5></center>
 			</div>
 			
 			</td></tr>
@@ -287,9 +287,9 @@ echo $totalcoins; ?>
             <div class="row">
                 <div class="col-md-12">
                     <div class="center gap">
-                        <h2>Welcome to the next generation of digital currency<br />
-OK is open-source; its design is public, nobody owns or <br />controls OKCash and everyone can take part.</h2>
-                        <p>Some of the benefits of start using OK</p><br />
+                        <h2>Bienvenido a la nueva generación de Dinero Digital<br />
+OK es open-source; su desarrollo es público, nadie es  <br />dueño o controla OKCash y todos pueden participar.</h2>
+                        <p>Algunos de los beneficios de comenzar a utilizar OK</p><br />
                     </div>                
                 </div>
             </div>
