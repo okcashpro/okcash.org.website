@@ -21,6 +21,12 @@
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+	<meta property="og:url" content="http://okcash.co"/>
+	<meta property="og:title" content="OKCash OK - Open Source Digital Cash"/>
+	<meta property="og:image" content="http://okcash.co/images/fb/okcash-site.png"/>
+	<meta property="og:site_name" content="OK"/>
+	<meta property="og:description" content="OK OKCash | Digital Currency Tech | The Future of Social Payments | Positive Innovation | Fast and Secure Payments | Energy Friendly Tech | High Sustainability"/>
+	
 </head><!--/head-->
 <body>
 <script>
