@@ -47,24 +47,24 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Introducción <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li><a href="okcash-for-individuals.html">Personas</a></li>
-                            <li><a href="okcash-for-businesses.html">Negocios</a></li>
-                            <li><a href="okcash-for-developers.html">Desarrolladores</a></li>
-                            <li><a href="getting-started.html">Como empezar</a></li>
-                            <li><a href="how-it-works.html">Como funciona</a></li>
-                            <li><a href="you-need-to-know.html">Que necesitas saber</a></li>
+                            <li><a href="okcash-para-personas.html">Personas</a></li>
+                            <li><a href="okcash-para-negocios.html">Negocios</a></li>
+                            <li><a href="okcash-para-desarrolladores.html">Desarrolladores</a></li>
+                            <li><a href="como-empezar.html">Como empezar</a></li>
+                            <li><a href="como-funciona.html">Como funciona</a></li>
+                            <li><a href="que-necesitas-saber.html">Que necesitas saber</a></li>
                         </ul>
                     </li>
 					<li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Recursos <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li><a href="resources.html">Recursos</a></li>
-                            <li><a href="community.html">Comunidad</a></li>
-                            <li><a href="developer-documentation.html">Documentación</a></li>
+                            <li><a href="recursos.html">Recursos</a></li>
+                            <li><a href="comunidad.html">Comunidad</a></li>
+                            <li><a href="documentacion-para-desarrolladores.html">Documentación</a></li>
                         </ul>
                     </li>
-                    <li><a href="innovation.html">Innovación</a></li>
-                    <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="innovacion.html">Innovación</a></li>
+                    <li><a href="preguntas-frecuentes.html">FAQ</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">ES <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
@@ -101,7 +101,7 @@
                                 <div class="carousel-content centered">
                                     <h2 class="animation animated-item-1">El Futuro del Dinero y las Micro Transacciones</h2>
                                     <p class="animation animated-item-2">Technología Financiera amigable con el medio ambiente y sustentable a largo plazo</p>
-                                    <a class="btn btn-md animation animated-item-3" href="getting-started.html">Leer Más</a>
+                                    <a class="btn btn-md animation animated-item-3" href="como-empezar.html">Leer Más</a>
                                 </div>
                             </div>
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
@@ -422,7 +422,7 @@ OK es open-source; su desarrollo es público, nadie es  <br />dueño o controla 
 							<li><a href="https://www.coingecko.com/en/coins/okcash" target="_blank">CoinGecko Rank</a></li>
                             <li><a href="http://coinmarketcap.com/currencies/okcash/" target="_blank">CoinMarketCap Rank</a></li>
 							<li><a href="https://github.com/okcashpro/okcash" target="_blank">Github - Source</a></li>
-                            <li><a href="terms-of-use.html">Terms of Use</a></li>
+                            <li><a href="terminos-de-uso.html">Terms of Use</a></li>
                         </ul>
                     </div>
                 </div><!--/.col-md-3-->
