@@ -300,8 +300,8 @@ OK es open-source; su desarrollo es público, nadie es  <br />dueño o controla 
                             <i class="fa-flash icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">FAST TRANSACTIONS</h3>
-                            <p>OKCash is digital cash. Transactions have really fast confirmations, making them virtually instant.</p>
+                            <h3 class="media-heading">TRANSACCIONES RÁPIDAS</h3>
+                            <p>OKCash es dinero digital. Las Transacciones se confirman muy rápido, haciéndolas virtualmente instantáneas.</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -311,8 +311,8 @@ OK es open-source; su desarrollo es público, nadie es  <br />dueño o controla 
                             <i class="fa-institution icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">NO BANK FEES</h3>
-                            <p>OKCash is a decentralized digital currency, meaning there are no banks to take a cut of your money.</p>
+                            <h3 class="media-heading">SIN COMISIONES BANCARIAS</h3>
+                            <p>OKCash es una moneda digital descentralizada, por lo cual no hay bancos intermediarios que tomen comisión de tu dinero.</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -322,8 +322,8 @@ OK es open-source; su desarrollo es público, nadie es  <br />dueño o controla 
                             <i class="fa-lock icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">SECURE NETWORK</h3>
-                            <p>The OKCash network is decentralized and free from middlemen, giving you back control of your finances and providing a secure network for all of your payments.</p>
+                            <h3 class="media-heading">RED SEGURA</h3>
+                            <p>La Red de OKCash se encuentra descentralizada y libre de intermediarios, brindándote el control total de tus finanzas a traves de una red segura para realizar todos tus pagos.</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -336,8 +336,8 @@ OK es open-source; su desarrollo es público, nadie es  <br />dueño o controla 
                             <i class="fa-laptop icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">SAVE OKCASH</h3>
-                            <p>Simply Keep your OKCash wallet (software) running and you will start earning a yearly reward on the OKCash coins you have in your wallet.</p>
+                            <h3 class="media-heading">AHORRA OKCASH</h3>
+                            <p>Simplemente manten tú cartera OKCash (software) en línea y comenzarás a ganar una recompensa anual sobre las monedas OK que tienes en tu cartera.</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -347,8 +347,8 @@ OK es open-source; su desarrollo es público, nadie es  <br />dueño o controla 
                             <i class="fa-globe icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">ACCEPT OKCASH WORLDWIDE</h3>
-                            <p>All you need to start accepting OKCash as payment for goods or services is an OK wallet. Display your unique address to begin accepting payments from all around the world.
+                            <h3 class="media-heading">ACEPTA OKCASH INTERNACIONALMENTE</h3>
+                            <p>Todo lo que necesitas para comenzar a aceptar pagos por productos o servicios es tu Cartera OK. Muestra tu dirección única para comenzar a recibir pagos desde cualquier parte del mundo.
 </p>
                         </div>
                     </div>
@@ -359,8 +359,8 @@ OK es open-source; su desarrollo es público, nadie es  <br />dueño o controla 
                             <i class="fa-cloud-download icon-md"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">THE OKCASH WALLET</h3>
-                            <p>Your wallet is the software you use to send, receive and store your OKCash. It’s simple to use and you can choose to send payments from your wallet.</p>
+                            <h3 class="media-heading">LA CARTERA OKCASH</h3>
+                            <p>La Cartera es el software que utilizamos para enviar, recibir y ahorrar OKCash. Es muy sencilla de usar para comenzar a recibir o realizar pagos desde tu cartera. </p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
@@ -369,21 +369,21 @@ OK es open-source; su desarrollo es público, nadie es  <br />dueño o controla 
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center">
-                        <h2>The Future of Social Payments</h2>
-                        <p>Positive Innovation • Empowerment • Decentralization • Open Source • Multicultural • Eco-Friendly • Fast • Social</p>
+                        <h2>El Futuro de los Pagos Sociales</h2>
+                        <p>Innovación Positiva • Empoderante • Decentralizado • Código Libre • Multicultural • Amigable con el Medio Ambiente • Veloz • Social</p>
                     </div>
                     <div class="gap"></div>
                     <div class="row">
                         <div class="col-md-6">
                             <blockquote>
-                                <p>A cryptographic platform for the users by the users.</p>
-                                <small>OK on <cite title="Source Title">Microsoft Azure</cite></small>
+                                <p>Una plataforma criptográfica de los usuarios para los usuarios.</p>
+                                <small>OK en <cite title="Source Title">Microsoft Azure</cite></small>
                             </blockquote>
                         </div>
                         <div class="col-md-6">
                             <blockquote>
-                                <p>Rokos Core OS Turns Your Raspberry Pi Into A Bitcoin Node.</p>
-                                <small>CES2016 Las Vegas by <cite title="Source Title">Tech Crunch</cite></small>
+                                <p>Rokos Core OS Convierte Tú Raspberry Pi en un Nodo Bitcoin.</p>
+                                <small>CES2016 Las Vegas por <cite title="Source Title">Tech Crunch</cite></small>
                             </blockquote>
                         </div>
                     </div>

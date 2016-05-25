@@ -346,7 +346,7 @@ OK is open-source; its design is public, nobody owns or <br />controls OKCash an
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">SAVE OKCASH</h3>
-                            <p>Simply Keep your OKCash wallet (software) running and you will start earning a yearly reward on the OKCash coins you have in your wallet.</p>
+                            <p>Simply Keep your OKCash wallet (software) running and you will start earning a yearly reward on the OK coins you have in your wallet.</p>
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
