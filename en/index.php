@@ -169,7 +169,7 @@
 			<td width="2%">&nbsp;</td>
 			<td valign="top" width="18%">
 				<h2 style="text-align: center;"><em class="fa fa-desktop fa-2x"></em><br />Desktop</h2>
-				<div style="text-align: center;"><a href="http://bit.ly/OKeasyinstall" target="_blank"> <strong>Windows Installer</strong></a></div>
+				<div style="text-align: center;"><a href="http://bit.ly/OKeasyinstall" target="_blank"> <strong>Windows Easy Installer</strong></a></div>
 				<div style="text-align: center;"><a href="http://bit.ly/OKzipdownload" target="_blank"> <strong>Windows zip file</strong></a></div>
 				<div style="text-align: center;"><a href="http://bit.ly/OKmacosx" target="_blank"> <strong>Mac OS X</strong></a></div>
 				<div style="text-align: center;"><a href="http://bit.ly/OKubuntulinux" target="_blank"> <strong>Ubuntu Linux</strong></a></div>
