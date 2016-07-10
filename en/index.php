@@ -158,6 +158,7 @@
 		<tr>
 			<td valign="top" width="18%">
 				<h2 style="text-align: center;"><em class="fa fa-cogs fa-2x"></em><br />IoT</h2>
+				<div style="text-align: center;"><a href="http://bit.ly/OKpine64" target="_blank"> <strong>Pine64</strong></a></div>
 				<div style="text-align: center;"><a href="http://bit.ly/OKraspberrypi" target="_blank"> <strong>Raspberry Pi</strong></a></div>
 			</td>
 			<td width="2%">&nbsp;</td>
