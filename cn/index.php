@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="OK OKCash | Digital Currency Tech | The Future of Social Payments | Positive Innovation | Fast and Secure Payments | Energy Friendly Tech | High Sustainability">
+    <meta name="description" content="OK OKCash | 數字貨幣技術 | 社會支付的未來 | 積極創新 | 快速，安全付款 | 節能的技術 | 高可持續性">
     <meta name="author" content="OK 社區">
     <title>OKCash OK - 開源數字現金</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
