@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="OK OKCash | Dinero Digital | El Futuro de los Pagos Sociales | Innovación Positiva | Pagos veloces y seguros | Tecnologia amigable con el medio ambiente | High Sustainability">
     <meta name="author" content="Comunidad OK">
-    <title>OKCash OK - Dinero Digital Open Source</title>
+    <title>OKCash OK - Dinero Digital de Código Libre</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -22,13 +22,23 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
 	<meta property="og:url" content="http://es.okcash.co"/>
-	<meta property="og:title" content="OKCash OK - Dinero Digital Open Source"/>
+	<meta property="og:title" content="OKCash OK - Dinero Digital de Código Libre"/>
 	<meta property="og:image" content="http://es.okcash.co/images/fb/okcash-site.png"/>
 	<meta property="og:site_name" content="OK"/>
 	<meta property="og:description" content="OK OKCash | Dinero Digital | El Futuro de los Pagos Sociales | Innovación Positiva | Pagos veloces y seguros | Tecnologia amigable con el medio ambiente"/>
 	
 </head><!--/head-->
 <body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62181322-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <!-- ann cde -->
     <header class="navbar navbar-inverse navbar-fixed-top wet-asphalt" role="banner">
         <div class="container">
