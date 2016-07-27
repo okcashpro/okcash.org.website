@@ -393,7 +393,7 @@ Divulgue seu endereço exclusivo para começar a aceitar pagamentos de qualquer 
                         </div>
                         <div class="col-md-6">
                             <blockquote>
-                                <p>Rokos Core OS Turns Your Raspberry Pi Into A Bitcoin Node.</p>
+                                <p>Rokos Core OS Transforma o seu Raspberry Pi em um Nó do Bitcoin.</p>
                                 <small>CES2016 Las Vegas by <cite title="Source Title">Tech Crunch</cite></small>
                             </blockquote>
                         </div>
