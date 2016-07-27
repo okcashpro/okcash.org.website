@@ -77,7 +77,7 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">PT <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li><a href="http://okcash.co">EN</a></li><li><a href="http://cn.okcash.co">CN</a></li><li><a href="http://es.okcash.co">ES</a></li>
+                            <li><a href="http://cn.okcash.co">CN</a></li><li><a href="http://okcash.co">EN</a></li><li><a href="http://es.okcash.co">ES</a></li>
                         </ul>
                 </ul>
             </div>
