@@ -190,7 +190,7 @@
 		</tr>
 	</tbody>
 </table>
-<p style="text-align: center;"><br /><br /><br /><em class="fa fa-chain"></em> 即時更新引導: <a href="https://github.com/okcashpro/ok-blockchain/releases" target="_blank"> <strong>OK-blockchain</strong></a><br /><em class="fa fa-check"></em> 最新錢包版本說明: <a href="https://github.com/okcashpro/okcash/releases" target="_blank"> <strong>v4.0.0.0</strong></a><br /><em class="fa fa-cog"></em> 對服務配置文件: <a href="http://bit.ly/OKzconfig" target="_blank"> <strong>okcash.conf</strong></a><br /><br />
+<p style="text-align: center;"><br /><br /><br /><em class="fa fa-chain"></em> 即時更新引導: <a href="https://github.com/okcashpro/ok-blockchain/releases" target="_blank"> <strong>OK-blockchain</strong></a><br /><em class="fa fa-check"></em> 最新錢包版本說明: <a href="https://github.com/okcashpro/okcash/releases" target="_blank"> <strong>v4.0.0.1</strong></a><br /><em class="fa fa-cog"></em> 對服務配置文件: <a href="http://bit.ly/OKzconfig" target="_blank"> <strong>okcash.conf</strong></a><br /><br />
 *文件分發搭載<em>dropbox.com</em>安全加密的文件服務.</p><br />
 <p align="center"><a href="http://rokos.space" target="_blank"><img class="userimg" src="images/rokos.png" alt="" border="0" /> <br /><strong>為樹莓派集成加密錢包一是全面優化的操作系統</strong></a><br /><em>*免費配送</em>  </p>			
             </div>

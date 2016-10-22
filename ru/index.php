@@ -190,7 +190,7 @@
 		</tr>
 	</tbody>
 </table>
-<p style="text-align: center;"><br /><br /><br /><em class="fa fa-chain"></em> Обновленный мгновенный Bootstrap: <a href="https://github.com/okcashpro/ok-blockchain/releases" target="_blank"> <strong>OK-blockchain</strong></a><br /><em class="fa fa-check"></em> Примечания к выпуску последней версии кошелька: <a href="https://github.com/okcashpro/okcash/releases" target="_blank"> <strong>v4.0.0.0</strong></a><br /><em class="fa fa-cog"></em> Конфигурационный файл для сервисов: <a href="http://bit.ly/OKzconfig" target="_blank"> <strong>okcash.conf</strong></a><br /><br />
+<p style="text-align: center;"><br /><br /><br /><em class="fa fa-chain"></em> Обновленный мгновенный Bootstrap: <a href="https://github.com/okcashpro/ok-blockchain/releases" target="_blank"> <strong>OK-blockchain</strong></a><br /><em class="fa fa-check"></em> Примечания к выпуску последней версии кошелька: <a href="https://github.com/okcashpro/okcash/releases" target="_blank"> <strong>v4.0.0.1</strong></a><br /><em class="fa fa-cog"></em> Конфигурационный файл для сервисов: <a href="http://bit.ly/OKzconfig" target="_blank"> <strong>okcash.conf</strong></a><br /><br />
 *Файлы распространяются через безопасный зашифрованный сервис <em>dropbox.com</em>.</p><br />
 <p align="center"><a href="http://rokos.space" target="_blank"><img class="userimg" src="images/rokos.png" alt="" border="0" /> <br /><strong>Первая полностью оптимизированная ОС для Raspberry Pi с интегрированными кошельками для криптовалют</strong></a><br /><em>*Бесплатное распространение</em>  </p>
             </div>
