@@ -173,7 +173,9 @@
 				<div style="text-align: center;"><a href="http://bit.ly/OKeasyinstall" target="_blank"> <strong>Windows Easy Installer</strong></a></div>
 				<div style="text-align: center;"><a href="http://bit.ly/OKzipdownload" target="_blank"> <strong>Windows zip file</strong></a></div>
 				<div style="text-align: center;"><a href="http://bit.ly/OKmacosx" target="_blank"> <strong>Mac OS X</strong></a></div>
-				<div style="text-align: center;"><a href="http://bit.ly/OKubuntulinux" target="_blank"> <strong>Ubuntu Linux</strong></a></div>
+				<div style="text-align: center;"><a href="http://bit.ly/OKubuntulinux" target="_blank"> <strong>Ubuntu 14</strong></a></div> 
+                <div style="text-align: center;"><a href="http://bit.ly/OKubuntulinux16" target="_blank"> <strong>Ubuntu 16</strong></a></div> 
+ 				<div style="text-align: center;"><a href="http://bit.ly/OKarchlinux" target="_blank"> <strong>Arch Linux</strong></a></div>
 			</td>
 			<td width="2%">&nbsp;</td>
 			<td valign="top" width="18%">
@@ -190,7 +192,7 @@
 		</tr>
 	</tbody>
 </table>
-<p style="text-align: center;"><br /><br /><br /><em class="fa fa-chain"></em> 即時更新引導: <a href="https://github.com/okcashpro/ok-blockchain/releases" target="_blank"> <strong>OK-blockchain</strong></a><br /><em class="fa fa-check"></em> 最新錢包版本說明: <a href="https://github.com/okcashpro/okcash/releases" target="_blank"> <strong>v4.0.0.1</strong></a><br /><em class="fa fa-cog"></em> 對服務配置文件: <a href="http://bit.ly/OKzconfig" target="_blank"> <strong>okcash.conf</strong></a><br /><br />
+<p style="text-align: center;"><br /><br /><br /><em class="fa fa-chain"></em> 即時更新引導: <a href="https://github.com/okcashpro/ok-blockchain/releases" target="_blank"> <strong>OK-blockchain</strong></a><br /><em class="fa fa-check"></em> 最新錢包版本說明: <a href="https://github.com/okcashpro/okcash/releases" target="_blank"> <strong>v4.0.0.3</strong></a><br /><em class="fa fa-cog"></em> 對服務配置文件: <a href="http://bit.ly/OKzconfig" target="_blank"> <strong>okcash.conf</strong></a><br /><br />
 *文件分發搭載<em>dropbox.com</em>安全加密的文件服務.</p><br />
 <p align="center"><a href="http://rokos.space" target="_blank"><img class="userimg" src="images/rokos.png" alt="" border="0" /> <br /><strong>為樹莓派集成加密錢包一是全面優化的操作系統</strong></a><br /><em>*免費配送</em>  </p>			
             </div>
@@ -449,11 +451,11 @@ OK是開源的; 它的設計是公開的，任何人擁有或 <br />控制OKCash
                     <h4>加入不同OK社區</h4>
                     <ul class="jf_social_icons rotate">
 <a href="http://twitter.com/OKCashCrypto" target="_blank" title="twitter"><em class="fa fa-twitter fa-3x"></em></a>  
-<a href="http://discord.me/cryptocurrency/" target="_blank" title="discord"><em class="fa fa-slack fa-3x"></a></em>  
+<a href="http://discord.me/cryptocurrency/" target="_blank" title="discord"><em class="fa fa-wechat fa-3x"></a></em>  
 <a href="http://reddit.com/r/OKcash" target="_blank" title="reddit"><em class="fa fa-reddit fa-3x"></em></a>  
 <a href="https://www.facebook.com/OKCashCrypto" target="_blank" title="facebook"><em class="fa fa-facebook fa-3x"></em></a>  <br>
-<a href="https://www.youtube.com/channel/UC5BCYmlBtPZiC7NNv-a5gfA" target="_blank" title="youtube"><em class="fa fa-youtube fa-3x"></em></a>  
-<a href="https://plus.google.com/u/0/b/111925669729941786986/111925669729941786986" target="_blank" title="google+"><em class="fa fa-google fa-3x"></em></a>  
+<a href="https://www.youtube.com/c/OkcashCrypto" target="_blank" title="youtube"><em class="fa fa-youtube fa-3x"></em></a>  
+<a href="https://plus.google.com/u/0/+OkcashCrypto" target="_blank" title="google+"><em class="fa fa-google fa-3x"></em></a>  
 <a href="https://www.pinterest.com/okcash/" target="_blank" title="pinterest"><em class="fa fa-pinterest fa-3x"></em></a>  
 <a href="https://www.instagram.com/okcashcrypto/" target="_blank" title="instagram"><em class="fa fa-instagram fa-3x"></em></a>  <br> 
  <!-- <li class="soundcloud"><a href="#" title="soundcloud">&nbsp;</a></li> 
