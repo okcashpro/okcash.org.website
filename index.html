@@ -45,8 +45,7 @@ var getJSON = function(url) {
 };
 
 getJSON('http://chainz.cryptoid.info/ok/api.dws?q=addresses').then(function(data) {
-    alert('Your Json result is:  ' + data.known); //you can comment this, i used it to debug
-
+    
     addresses.innerText = data.known; //display the result in an HTML element
 }, function(status) { //error detection....
   alert('Something went wrong.');
