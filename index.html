@@ -26,7 +26,32 @@
 	<meta property="og:image" content="images/fb/okcash-site.png"/>
 	<meta property="og:site_name" content="OK"/>
 	<meta property="og:description" content="OK OKCash | Digital Currency Tech | The Future of Social Payments | Positive Innovation | Fast and Secure Payments | Energy Friendly Tech | High Sustainability"/>
-	
+	<script>
+var getJSON = function(url) {
+  return new Promise(function(resolve, reject) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('get', url, true);
+    xhr.responseType = 'json';
+    xhr.onload = function() {
+      var status = xhr.status;
+      if (status == 200) {
+        resolve(xhr.response);
+      } else {
+        reject(status);
+      }
+    };
+    xhr.send();
+  });
+};
+
+getJSON('http://chainz.cryptoid.info/ok/api.dws?q=addresses').then(function(data) {
+    alert('Your Json result is:  ' + data.known); //you can comment this, i used it to debug
+
+    addresses.innerText = data.known; //display the result in an HTML element
+}, function(status) { //error detection....
+  alert('Something went wrong.');
+});
+</script>
 </head><!--/head-->
 <body>
 <script>
@@ -239,13 +264,7 @@
 		<table align="center" width="90%">
 		<tr><td width="25%">
 			<div class="jf_col grid_3" data-animation="bounceIn" data-animation-delay="0.1">
-				<center><h2 class="count_number">
-<?php 
-$url2 = "http://chainz.cryptoid.info/ok/api.dws?q=addresses";
-$json2 = json_decode(file_get_contents($url2), true);
-$totady = $json2["known"];
-echo $totady; ?>
-</h2>
+				<center><h2 id="addresses" class="count_number"></h2>
 			<h5 class="count_title"><i class="fa fa-qrcode"></i>  Addresses<br />created so far</h5></center>
 			</div>
 			
