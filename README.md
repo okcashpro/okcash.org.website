@@ -1,5 +1,5 @@
 # okcash.co
-Info Website for OKCash - Open Source Digital Cash
+Info Website for Okcash - Open Source Digital Cash
 
 Site Languages so far: **Chinese (cn), Spanish (es), English(www), Portuguese (pt), Russian (ru)**
 
