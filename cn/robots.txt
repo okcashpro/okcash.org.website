@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: http://cn.okcash.co/sitemap.xml
+Sitemap: http://okcash.co/cn//sitemap.xml
