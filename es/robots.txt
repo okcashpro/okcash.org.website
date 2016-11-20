@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: 
-
-Sitemap: http://okcash.co/es/sitemap.xml
