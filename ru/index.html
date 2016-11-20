@@ -233,64 +233,7 @@
                 </div>
             </div>
         </div> -->
-		<h3 class="title" align="center"><em class="fa fa-star-o"></em> <b>Мировая статистика</b> <em class="fa fa-star-o"></em></h3>
-	<div>
-		<div class="rt-block">
-		<table align="center" width="90%">
-		<tr><td width="25%">
-			<div class="jf_col grid_3" data-animation="bounceIn" data-animation-delay="0.1">
-				<center><h2 class="count_number">
-<?php
-$url2 = "http://chainz.cryptoid.info/ok/api.dws?q=addresses";
-$json2 = json_decode(file_get_contents($url2), true);
-$totady = $json2["known"];
-echo $totady; ?>
-</h2>
-			<h5 class="count_title"><i class="fa fa-qrcode"></i>  Адресов<br />создано</h5></center>
-			</div>
-
-			</td><td width="25%">
-	 		<div class="jf_col grid_3" data-animation="bounceIn" data-animation-delay="0.4">
-				<center><h2 class="count_number">
-<?php
-$url3 = "http://chainz.cryptoid.info/ok/api.dws?q=addresses";
-$json3 = json_decode(file_get_contents($url3), true);
-$nonady = $json3["nonzero"];
-echo $nonady; ?>
-</h2>
-			<h5 class="count_title"><i class="fa fa-smile-o"></i>  Адресов с более<br />чем 1000 OK</h5></center>
-			</div>
-
-			</td><td width="25%">
-		<div class="jf_col grid_3" data-animation="bounceIn" data-animation-delay="0.4">
-				<center><h2 class="count_number">
-<?php
-$url4 = "http://coinmarketcap.northpole.ro/api/v4/ok.json";
-$json4 = json_decode(file_get_contents($url4), true);
-$marketplace = $json4["position"];
-echo $marketplace; ?>
-</h2>
-			<h5 class="count_title"><i class="fa fa-thumbs-o-up"></i> Место на <br />Coinmarketcap</h5></center>
-			</div>
-
-			</td><td width="25%">
-			<div class="jf_col grid_3 last-column" data-animation="bounceIn" data-animation-delay="0.4">
-				<center><h2 class="count_number">
-
-<?php
-$url = "http://chainz.cryptoid.info/ok/api.dws?q=totalcoins";
-$json1 = json_decode(file_get_contents($url), true);
-$totalcoins = $json1;
-echo $totalcoins; ?>
-</h2>
-				<h5 class="count_title"><i class="fa fa-heart-o"></i>  Монет<br />в обороте</h5></center>
-			</div>
-
-			</td></tr>
-			</table>
-			<div class="clear"></div>
-		</div>
-	</div>
+	<h3 class="title" align="center"><em class="fa fa-star-o"></em> <a href="#"><b>Мировая статистика</b></a> <em class="fa fa-star-o"></em> <a href="http://okcashblockhalf.com" target="_blank"><b>OK BLOCK REWARD</b></a> <em class="fa fa-star-o"></em></h3>
 
     </section><!--/#facts-->
 
