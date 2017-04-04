@@ -43,7 +43,7 @@ h6 {
   font-weight: 400;
 }
 a {
-  color: #6bd190;
+  color: #333333;
   font-weight: bold;
   -webkit-transition: 300ms;
   -moz-transition: 300ms;
@@ -67,7 +67,7 @@ hr {
 }
 a:hover,
 a:focus {
-  color: #d9534f;
+  color: #3dbf6c;
   text-decoration: none;
   outline: none;
 }
@@ -291,7 +291,7 @@ body > section {
   color: #bdc3c7;
 }
 .wet-asphalt a:not(.btn):hover {
-  color: #d9534f;
+  color: #3dbf6c;
 }
 .midnight-blue {
   background-color: #2c3e50;
@@ -960,7 +960,7 @@ ul.rss li::before {
   color: #bdc3c7;
 }
 #footer a:hover {
-  color: #d9534f;
+  color: #3dbf6c;
 }
 #footer ul {
   list-style: none;
