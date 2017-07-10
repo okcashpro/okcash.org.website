@@ -1,7 +1,7 @@
 # okcash.org
 Info Website for Okcash - Open Source Digital Cash
 
-Site Languages so far: **Chinese (cn), Spanish (es), English(www), Portuguese (pt), Russian (ru)**
+Site Languages so far: **Chinese (cn), Spanish (es), English(www), Italian (it), Portuguese (pt), Russian (ru), Ukrainian (uk)**
 
 <iframe src="https://discordapp.com/widget?id=213747404745211904&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
