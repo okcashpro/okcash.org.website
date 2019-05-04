@@ -98,11 +98,17 @@
                     <h4>OK 快速鏈接</h4>
                     <div>
                         <ul class="arrow">
-                            <li><a href="https://www.bittrex.com/Market/Index?MarketName=BTC-OK" target="_blank">買/賣上Bittrex</a></li>
-						    <li><a href="https://bitsquare.io/" target="_blank">買/賣上Bitsquare</a></li>
-                            <li><a href="https://bleutrade.com/exchange/OK/BTC" target="_blank">買/賣上Bleutrade</a></li>
-                            <li><a href="https://www.cryptopia.co.nz/Exchange?id=1298" target="_blank">買/賣上Cryptopia</a></li>
-                            <li><a href="https://cripto-pay.com/" target="_blank">買/賣上Cripto的-收費</a></li>
+                            <li><a href="https://www.bittrex.com/Market/Index?MarketName=BTC-OK" target="_blank">買/賣上 Bittrex</a></li>
+							<li><a href="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-OK" target="_blank">買/賣上 UpBit</a></li>
+							<li><a href="https://www.litebit.eu/en/buy/okcash" target="_blank">買/賣上 LiteBit</a></li>
+                            <li><a href="https://bleutrade.com/en/trade/basic/OK/BTC" target="_blank">買/賣上 Bleutrade</a></li>
+                            <li><a href="https://www.cryptopia.co.nz/Exchange/?market=OK_BTC" target="_blank">買/賣上 Cryptopia</a></li>
+							<li><a href="https://tradesatoshi.com/Exchange?market=OK_BTC" target="_blank">買/賣上 Trade Satoshi</a></li>
+							<li><a href="https://novaexchange.com/market/BTC_OK/" target="_blank">買/賣上 Novaexchange</a></li>
+							<li><a href="https://btcpop.co/Exchange/OK" target="_blank">買/賣上 BtcPop</a></li>
+							<li><a href="https://yobit.net/en/trade/OK/BTC" target="_blank">買/賣上 YoBit</a></li>
+							<li><a href="https://hikenex.com/market" target="_blank">買/賣上 Hikenex</a></li>
+						    <li><a href="https://bitsquare.io/" target="_blank">買/賣上 Bisq (Decentralized)</a></li>
                             <li><a href="https://chainz.cryptoid.info/ok/" target="_blank">OKCash座探險</a></li>
 							<li><a href="https://www.coingecko.com/en/coins/okcash" target="_blank">CoinGecko排名</a></li>
                             <li><a href="https://coinmarketcap.com/currencies/okcash/" target="_blank">CoinMarketCap排名</a></li>
