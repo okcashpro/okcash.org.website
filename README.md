@@ -15,4 +15,4 @@ Site Languages so far: **Chinese (cn), Spanish (es), English(www), Italian (it),
 https://github.com/okcashpro/okcash
 
 #### Download the Instant OK-Blockchain (Fast Sync for first time users): 
-![OK-bootstrap](https://i.imgur.com/edwu0MM.png) https://github.com/okcashpro/ok-blockchain/releases
+https://github.com/okcashpro/ok-blockchain/releases
