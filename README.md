@@ -11,16 +11,16 @@ Site Languages so far: **Chinese (cn), Spanish (es), English(www), Italian (it),
 
 -------------------
 
-#### Okcash community website
+#### Okcash community website:
 https://okcash.co
 
-#### Okcash documentation website
+#### Okcash documentation website:
 https://okcash.org
 
-#### Okcash tutorials website
+#### Okcash tutorials website:
 https://okcash.info
 
-#### Okcash source code
+#### Okcash source code:
 https://github.com/okcashpro/okcash
 
 #### Download the Instant OK-Blockchain (Fast Sync for first time users): 
