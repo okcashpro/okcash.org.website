@@ -24,4 +24,4 @@ https://okcash.info
 https://github.com/okcashpro/okcash
 
 #### Download the Instant OK-Blockchain (Fast Sync for first time users): 
-https://github.com/okcashpro/ok-blockchain/releases
+https://github.com/okcashpro/ok-blockchain/
