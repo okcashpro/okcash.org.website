@@ -5,7 +5,7 @@ Site Languages so far: **Chinese (cn), Spanish (es), English(www), Italian (it),
 
 
 ### Join the new communications server
-<a href="http://discord.io/cryptocurrency">
+<a href="http://discord.okcash.co">
     <img alt="Logo" src="https://discordapp.com/api/guilds/213747404745211904/widget.png?style=banner2">
   </a>
 
