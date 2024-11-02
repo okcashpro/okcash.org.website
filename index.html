@@ -26,31 +26,6 @@
 	<meta property="og:image" content="https://okcash.org/images/fb/okcash-site.png"/>
 	<meta property="og:site_name" content="OK"/>
 	<meta property="og:description" content="OK Okcash | Multi chain | Digital Currency Tech | The Future of Social Payments | Proof of Stake | Fast and Secure Payments | Energy Friendly Tech | High Sustainability"/>
-	<script>
-var getJSON = function(url) {
-  return new Promise(function(resolve, reject) {
-    var xhr = new XMLHttpRequest();
-    xhr.open('get', url, true);
-    xhr.responseType = 'json';
-    xhr.onload = function() {
-      var status = xhr.status;
-      if (status == 200) {
-        resolve(xhr.response);
-      } else {
-        reject(status);
-      }
-    };
-    xhr.send();
-  });
-};
-
-getJSON('https://chainz.cryptoid.info/ok/api.dws?q=addresses').then(function(data) {
-    
-    addresses.innerText = data.known; //display the result in an HTML element
-}, function(status) { //error detection....
-  alert('Something went wrong.');
-});
-</script>
 </head><!--/head-->
 <body>
 <script>
