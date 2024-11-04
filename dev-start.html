@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="OK Okcash | Digital Currency Tech | The Future of Social Payments | Fast and Secure Payments | Getting Started">
+    <meta name="description" content="OK Okcash | Digital Currency Tech | The Future of Social Payments | Fast and Secure Payments | Developer Documentation">
     <meta name="author" content="OK Community">
-    <title>Getting Started - Okcash OK - Open Source, Multi-chain Digital Cash - OK Token</title>
+    <title>Dev Start - Okcash OK - Open Source, Multi-chain Digital Cash - OK Token</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/font-awesome.min.css" rel="stylesheet">
     <link href="/css/prettyPhoto.css" rel="stylesheet">
@@ -56,7 +56,7 @@
                             <li><a href="okcash-for-individuals.html">Individuals</a></li>
                             <li><a href="okcash-for-businesses.html">Businesses</a></li>
                             <li><a href="okcash-for-developers.html">Developers</a></li>
-                            <li class="active"><a href="getting-started.html">Getting Started</a></li>
+                            <li><a href="getting-started.html">Getting Started</a></li>
                             <li><a href="how-it-works.html">How it works</a></li>
                             <li><a href="you-need-to-know.html">You need to know</a></li>
                         </ul>
@@ -67,7 +67,7 @@
                             <li><a href="https://okcash.network" target="_blank">Resources</a></li>
                             
                     <li><a href="collaborators.html">Collaborators</a></li>
-                            <li><a href="developer-documentation.html">Documentation</a></li>
+                            <li class="active"><a href="developer-documentation.html">Documentation</a></li>
                         </ul>
                     </li>
                     <li><a href="innovation.html">Innovation</a></li>
@@ -82,23 +82,23 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Getting started with Okcash</h1>
+                    <h1>Dev Start</h1>
                     <p></p>
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
                         <li><a href="index.html">OK</a></li>
-                        <li class="active">Getting Started</li>
+                        <li class="active">Dev Start</li>
                     </ul>
                 </div>
             </div>
         </div>
     </section><!--/#title-->    
 
-    <section id="getting-started" class="container">
-        <h2 style="text-align: center;"><em class="fa fa-rocket"></em> Getting Started with Okcash</h2>
+    <section id="dev-start" class="container">
+        <h2 style="text-align: center;"><em class="fa fa-code"></em> Dev Start: Build on the Okcash Multichain Ecosystem</h2>
         <p class="summarytxt" style="text-align: justify;">
-            Welcome to Okcash! OK is a multichain digital asset available across several major blockchains. Whether you're new to crypto or an experienced user, Okcash offers a seamless, fast, and secure experience across multiple networks. Here's how to get started and begin exploring the Okcash ecosystem on Ethereum, Binance Smart Chain, Polygon, Avalanche, Arbitrum, Optimism, Solana and BASE.
+            OK is more than just a cryptocurrency; it’s a multichain system open to developers, offering flexibility, scalability, and access to major blockchain ecosystems. With Okcash, you can build applications, create integrations, and leverage DeFi across Ethereum, Binance Smart Chain, Polygon, Avalanche, Arbitrum, Optimism, Solana and BASE. This guide will walk you through getting started with the development across networks.
         </p>
         <p>&nbsp;</p>
     
@@ -108,32 +108,38 @@
                     <tr>
                         <td style="text-align: justify;" valign="top" width="47%">
                             <div>
-                                <h3 id="inform"><em class="fa fa-info-circle"></em> 1. Inform Yourself</h3>
-                                <p>Before you start using Okcash, it's essential to understand the basics of blockchain and multichain technology. Learn how Okcash integrates with popular blockchain networks to bring you a reliable, decentralized experience. <a href="you-need-to-know.html">Read more</a></p>
+                                <h3 id="choose-network"><em class="fa fa-network-wired"></em> 1. Choose Your Network</h3>
+                                <p>Okcash operates on multiple blockchains, each with unique strengths. Select the blockchain that best fits your project goals. Here’s a quick overview:</p>
+                                <ul>
+                                    <li><strong>Ethereum</strong>: The go-to for high-security applications and DeFi integrations.</li>
+                                    <li><strong>Binance Smart Chain (BSC)</strong>: Ideal for cost-effective DeFi and DApp projects.</li>
+                                    <li><strong>Polygon</strong>: Layer 2 scaling for quick transactions and lower fees.</li>
+                                    <li><strong>Avalanche</strong>: Known for speed and efficient consensus mechanisms.</li>
+                                    <li><strong>Arbitrum & Optimism</strong>: Layer 2 networks on Ethereum for lower fees and high throughput.</li>
+                                    <li><strong>BASE</strong>: Coinbase’s L2 with seamless dApp support and scaling solutions.</li>
+                                </ul>
                             </div>
                             
                             <div>
-                                <h3 id="choose-wallet"><em class="fa fa-wallet"></em> 2. Choose Your Wallet</h3>
-                                <p>To hold, send, or receive OK, choose a compatible wallet for the blockchain you want to use. Popular wallets like Trust Wallet, Coinbase Wallet, and MetaMask support OK across different chains. Be sure to select the correct network to avoid sending funds incorrectly.</p>
-                                <p><strong>Wallet Recommendations:</strong></p>
+                                <h3 id="tools"><em class="fa fa-toolbox"></em> 2. Set Up Your Development Environment</h3>
+                                <p>For building with OK Token, ensure you have essential tools like:</p>
                                 <ul>
-                                    <li><a href="https://trustwallet.com/" target="_blank">Trust Wallet</a> - Supports Ethereum, BSC, Polygon, Avalanche, Arbitrum, and Optimism.</li>
-                                    <li><a href="https://metamask.io/" target="_blank">MetaMask</a> - Ethereum, Binance Smart Chain, and other EVM-compatible networks.</li>
-                                    <li><a href="https://www.coinbase.com/wallet" target="_blank">Coinbase Wallet</a> - Ethereum, Polygon, and more.</li>
+                                    <li><strong>Node.js</strong> - For JavaScript-based applications and script automation.</li>
+                                    <li><strong>Truffle or Hardhat</strong> - Frameworks to test, deploy, and manage smart contracts.</li>
+                                    <li><strong>Metamask</strong> - Test on multiple networks using one of the most popular crypto wallets.</li>
+                                    <li><strong>Infura or Alchemy</strong> - Access reliable nodes for Ethereum and its Layer 2 networks.</li>
                                 </ul>
+                                <p>Note: You can configure network-specific RPC endpoints for each blockchain to connect Okcash functionalities directly to the relevant chain.</p>
                             </div>
     
                             <div>
-                                <h3 id="network"><em class="fa fa-link"></em> 3. Select Your Network</h3>
-                                <p>Okcash is available on multiple networks, each offering unique benefits. Choose the network that best suits your needs or explore multiple chains for flexibility.</p>
+                                <h3 id="install-sdk"><em class="fa fa-cogs"></em> 3. Install the Okcash SDK (coming soon)</h3>
+                                <p>We’re actively developing an OK SDK to streamline interactions across all networks. Meanwhile, you can check directly the available documentation for each blockchain you want to interact with Okcash.</p>
+                                <!-- <p><strong>Resources:</strong></p>
                                 <ul>
-                                    <li><strong>Ethereum</strong>: High security and liquidity; ideal for advanced DeFi and DEX trading.</li>
-                                    <li><strong>Binance Smart Chain (BSC)</strong>: Low fees and fast transactions, popular for DeFi applications.</li>
-                                    <li><strong>Polygon</strong>: Layer 2 scaling on Ethereum for high-speed, low-cost transactions.</li>
-                                    <li><strong>Avalanche</strong>: Scalable and decentralized; known for high transaction speeds.</li>
-                                    <li><strong>Arbitrum</strong> & <strong>Optimism</strong>: Layer 2 solutions for Ethereum; high throughput and low fees.</li>
-                                    <li><strong>BASE</strong>: Coinbase’s Layer 2 network, optimized for scalability and efficient DeFi access.</li>
-                                </ul>
+                                    <li><a href="https://okcashtalk.org/index.php/board,45.0.html" target="_blank">Okcash Guide</a></li>
+                                    <li><a href="https://okcashpro.github.io/rpc-docs/" target="_blank">RPC Documentation</a></li>
+                                </ul> -->
                             </div>
                         </td>
     
@@ -141,26 +147,24 @@
     
                         <td style="text-align: justify;" valign="top" width="47%">
                             <div>
-                                <h3 id="get"><em class="fa fa-coins"></em> 4. Get Okcash</h3>
-                                <p>Acquiring Okcash is easy! You can buy OK tokens directly from popular exchanges on supported networks or by trading on decentralized exchanges (DEXs) like Uniswap, PancakeSwap, or QuickSwap.</p>
-                                <div><a href="https://okcash.network/" target="_blank">Find Exchanges</a></div>
+                                <h3 id="deploy-smart-contract"><em class="fa fa-file-code"></em> 4. Deploy and Test Smart Contracts</h3>
+                                <p>Use Hardhat or Truffle to deploy smart contracts on your selected network. Ensure compatibility with OK Tokens. For enhanced contract security, deploy on testnets before mainnet.</p>
                             </div>
     
                             <div>
-                                <h3 id="swap"><em class="fa fa-exchange"></em> 5. Swap OK Across Chains</h3>
-                                <p>With Okcash's multichain nature, you can swap OK between different networks using trusted bridges. Easily transfer OK across Ethereum, BSC, Polygon, and more through Spherium Hyperbridge or OK Swap.</p>
-                                <p><a href="https://okcash.network/" target="_blank">Access OK Swap</a></p>
+                                <h3 id="staking-pools"><em class="fa fa-coins"></em> 5. Leverage Staking and DeFi</h3>
+                                <p>Integrate Okcash staking and DeFi pools on your platform or create custom staking solutions. Okcash’s cross-chain pools provide flexibility and a sustainable staking option to encourage user engagement.</p>
+                                <div><a href="https://okcash.network" target="_blank">View Staking Pools</a></div>
                             </div>
     
                             <div>
-                                <h3 id="stake"><em class="fa fa-check-circle"></em> 6. Stake Your OK Tokens</h3>
-                                <p>Join staking pools on various chains to earn rewards while supporting the Okcash network. With competitive APYs, staking is an easy way to maximize your OK holdings.</p>
-                                <p><a href="https://okcash.network" target="_blank">View Staking Pools</a></p>
+                                <h3 id="community-and-support"><em class="fa fa-users"></em> 6. Join the Okcash Developer Community</h3>
+                                <p>Collaborate with fellow developers and the Okcash community! Join Github and the OK Discord, contribute to open-source projects, or explore innovative ways to enhance the Okcash ecosystem.</p>
                             </div>
     
                             <div>
-                                <h3 id="spend"><em class="fa fa-shopping-cart"></em> 7. Spend Okcash</h3>
-                                <p>Okcash is accepted by a growing number of merchants and service providers. Use OK for transactions, tipping, and peer-to-peer payments globally.</p>
+                                <h3 id="start-building"><em class="fa fa-rocket"></em> 7. Start Building with Okcash</h3>
+                                <p>Once you’re set up, explore the unique possibilities that Okcash offers in the multichain DeFi and Web3 landscape. Develop apps, tools, games, and services that benefit from Okcash’s universal accessibility, community support, and cutting-edge multichain approach!</p>
                             </div>
                         </td>
                     </tr>
@@ -169,44 +173,11 @@
         </center>
     
         <p>&nbsp;</p>
-        <h2 style="text-align: center;"><em class="fa fa-briefcase"></em> How to Accept Okcash</h2>
-        <p>&nbsp;</p>
+        <h2 style="text-align: center;"><em class="fa fa-book"></em> Developer Documentation and Resources</h2>
+        <p class="summary" style="text-align: center;">Access our complete documentation to build robust, scalable applications on Okcash. Stay updated with our SDK releases, guides, and API references.</p>
+    </section><!--/#dev-start-->
     
-        <center>
-            <table style="width: 80%;">
-                <tbody>
-                    <tr>
-                        <td style="text-align: justify;" valign="top" width="47%">
-                            <div>
-                                <h3 id="merchant-inform"><em class="fa fa-info-circle"></em> 1. Inform Yourself</h3>
-                                <p>Okcash doesn’t require any drastic changes to your business processes. However, it’s important to understand the fundamentals of cryptocurrency payments. <a href="you-need-to-know.html">Read more</a></p>
-                            </div>
     
-                            <div>
-                                <h3 id="merchant-service"><em class="fa fa-server"></em> 2. Processing Payments</h3>
-                                <p>Set up Okcash payments through a wallet or by using third-party processors for conversion to local currencies. Most businesses use mobile or tablet-based solutions.</p>
-                            </div>
-                        </td>
-    
-                        <td width="6%">&nbsp;</td>
-    
-                        <td style="text-align: justify;" valign="top" width="47%">
-                            <div>
-                                <h3 id="tax"><em class="fa fa-balance-scale"></em> 3. Accounting and Taxes</h3>
-                                <p>While you can display OK prices, it's essential to understand tax obligations in your country. Consult a professional accountant for guidance on crypto tax compliance.</p>
-                            </div>
-    
-                            <div>
-                                <h3 id="visibility"><em class="fa fa-bullhorn"></em> 4. Gain Visibility</h3>
-                                <p>Many Okcash users are looking to spend their tokens. Register your business in crypto directories, and display Okcash logos in your store or online to attract new customers.</p>
-                                <p><a href="https://github.com/okcashpro/ok-graphics" target="_blank">OK Branding Kit</a></p>
-                            </div>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </center>
-    </section><!--/#getting-started-->
     
     
 
